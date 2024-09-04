@@ -4,6 +4,19 @@ Issue や Pull Request のテンプレート
 
 ## Issue テンプレート
 
+### `.github/ISSUE_TEMPLATE/bug.md`
+
+- What
+  - 不具合報告のissue用のテンプレート
+  - issue のタイトル例
+    - ◯◯画面で△△するとPHPのエラーが表示される
+- Who
+  - 不具合発見者(主にテスター)
+  - 不具合対応者(主に機能実装担当)
+- When
+  - 主に、テスト実施時の不具合発覚時に書く
+  - 不具合対応後のテスト環境での動作確認が完了したらクローズする
+
 ### `.github/ISSUE_TEMPLATE/feature.md`
 
 - What
