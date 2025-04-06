@@ -1,7 +1,7 @@
 ---
 name: タスク
 about: タスクの詳細
-title: "[TASK] タスク内容"
+title: "タスク内容"
 labels: TASK
 types: TASK
 assignees: ""

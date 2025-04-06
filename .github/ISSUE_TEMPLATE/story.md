@@ -1,7 +1,7 @@
 ---
 name: ストーリー
 about: ユーザーストーリー
-title: "[STORY] 〜をする、〜ができる"
+title: "〜をする、〜ができる"
 labels: STORY
 Types: STORY
 assignees: ""

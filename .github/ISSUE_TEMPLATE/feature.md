@@ -1,7 +1,7 @@
 ---
 name: 機能要件
 about: プロジェクトに機能を追加する、または既存の機能を改修する
-title: "[FEATURE] 機能名"
+title: "機能名"
 labels: FEATURE
 types: FEATURE
 assignees: ""
