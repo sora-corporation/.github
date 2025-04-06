@@ -3,6 +3,7 @@ name: 機能要件
 about: プロジェクトに機能を追加する、または既存の機能を改修する
 title: "[FEATURE] 機能名"
 labels: FEATURE
+types: FEATURE
 assignees: ""
 ---
 
@@ -16,10 +17,7 @@ assignees: ""
 
 ## Story
 
-```tasklist
-## STORY
-- [ ] 
-```
+Sub issuesでStoryのissueを紐づける。
 
 ## 課題・検討・補足
 
