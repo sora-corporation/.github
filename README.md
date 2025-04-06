@@ -45,7 +45,7 @@ Issue や Pull Request のテンプレート
   - `STORY` issue に紐づく `TASK` issue がすべてクローズし、動作確認できたらクローズ
     - つまり対象の機能は一部完成している状態
 
-※小さい案件であれば、 `FEATURE` と `STORY` を分けずにまめてしまっても良い
+※小さいプロジェクトの場合に「書くことがない」みたいになりがちだが、 `FEATURE` と同じタイトルででも `STORY` のissueをつくっておくと、GitHub Projectsでの管理がしやすい。
 
 ### `.github/ISSUE_TEMPLATE/task.md`
 
